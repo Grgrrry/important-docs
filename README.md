@@ -1,6 +1,3 @@
-can u update this with my code, below is the documentation of my code.
-
----
 ## 🚀 RYT AI Backend Documentation
 
 This README provides an overview of the RYT AI backend, built with FastAPI, designed to serve as a robust foundation for AI-powered applications.    
