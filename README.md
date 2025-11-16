@@ -4,6 +4,7 @@ This README provides an overview of the RYT AI backend, built with FastAPI, desi
 
 The RYT AI backend is engineered to provide a highly scalable, modular, and efficient environment for deploying AI-driven features across multiple platforms. By leveraging FastAPI’s asynchronous capabilities, type safety, and auto-generated API documentation, the backend ensures rapid development without compromising reliability or performance.
 
+
 ---
 ### 📝 Description
 
@@ -41,11 +42,13 @@ search_category: "others"
 </SEARCH_MEMORY>
 IMPORTANT! -->
 
+
 ---
 ### ✨ Features
 - 🤖 Model Inference: Execute pre-trained AI models  
 - 🧹 Data Processing: Clean, transform, and analyze input data  
 - 🔗 API Integration: Serve as an intermediary for different AI components  
+
 
 ---
 ### ⚙️ Installation
@@ -66,6 +69,7 @@ uvicorn main:app --reload
 ```
 
 The API will be available at http://127.0.0.1:8000.
+
 
 ---
 ### 🛠 API Endpoints
@@ -130,6 +134,7 @@ The API will be available at http://127.0.0.1:8000.
         }
         ```
 
+
 ---
 ### 🗂 Project Structure
 ```  
@@ -142,6 +147,7 @@ ryt-ai-backend/
 ├── requirements.txt # Dependencies
 └── README.md        # Documentation
 ```  
+
 
 ---
 #### Contributing
